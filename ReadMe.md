@@ -219,7 +219,7 @@ with detection_graph.as_default():
 <br>
 ![img not found](https://github.com/goutkannan/Deep-Learning/blob/master/Capture2.JPG "Person + Keyboard")
 <br>
-![img not found](https://github.com/goutkannan/Deep-Learning/blob/master/Capture1.JPG "Person + Keyboard")
+![img not found](https://github.com/goutkannan/Deep-Learning/blob/master/Capture3.JPG "Person + Keyboard")
 
 
 ```python
