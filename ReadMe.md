@@ -215,11 +215,11 @@ with detection_graph.as_default():
 
 ## Sample Screen shots from the feed
 
-![img not found](Capture1.jpg "Person + Cell Phone")
+![img not found](https://github.com/goutkannan/Deep-Learning/blob/master/Capture1.jpg "Person + Cell Phone")
 <br>
-![img not found](Capture2.jpg "Person + Keyboard")
+![img not found](https://github.com/goutkannan/Deep-Learning/blob/master/Capture2.jpg "Person + Keyboard")
 <br>
-![img not found](Capture2.jpg "Person + Keyboard")
+![img not found](https://github.com/goutkannan/Deep-Learning/blob/master/Capture2.jpg "Person + Keyboard")
 
 
 ```python
