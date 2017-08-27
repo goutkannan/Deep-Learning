@@ -1,6 +1,6 @@
 
 # Object Detection Demo
-<i> This worked is based on https://github.com/tensorflow/models/tree/master/object_detection </i> 
+<i> (This worked is based on https://github.com/tensorflow/models/tree/master/object_detection )</i> 
 
 Welcome to the object detection inference walkthrough!  This notebook will walk you step by step through the process of using a pre-trained model to detect objects in an image. 
 
